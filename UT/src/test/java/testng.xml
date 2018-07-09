@@ -1,0 +1,10 @@
+<?xml version  = "1.0" encoding ="UTF-8"?>
+<suite parallel = "false" name = "Suite">
+    <test name = "CheckTriangle">
+        <classes>
+        <class name = "CheckTriangle"/>
+            <class name = "CheckTypeOfTriangle"/>
+            <class name = "CheckGetSqure"/>
+        </classes>
+    </test>
+</suite>
